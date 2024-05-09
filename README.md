@@ -1,5 +1,7 @@
 # Fintech101 🚀
 
+![Fintech Image](Image.png)
+
 Welcome to Fintech101! This repository is designed to be your comprehensive guide to understanding and mastering various aspects of financial technology (fintech). Whether you're a beginner looking to explore the basics or an experienced professional diving into advanced concepts, Fintech101 has something for everyone.
 
 ## Table of Contents 📚
