@@ -1,8 +1,11 @@
-# Fintech101 🚀
+# Fintech101 💵
 
 ![Fintech Image](Image.png)
 
 Welcome to Fintech101! This repository is designed to be your comprehensive guide to understanding and mastering various aspects of financial technology (fintech). Whether you're a beginner looking to explore the basics or an experienced professional diving into advanced concepts, Fintech101 has something for everyone.
+
+> Work in Progress
+- Case studies.
 
 ## Table of Contents 📚
 
@@ -11,7 +14,7 @@ Welcome to Fintech101! This repository is designed to be your comprehensive guid
    - [Evolution of Financial Technologies](https://github.com/Suraj520/fintech101/tree/main/00-Intro-to-fintech/01-evolution-of-fintech)
    - [Fintech Business Models](https://github.com/Suraj520/fintech101/tree/main/00-Intro-to-fintech/02-fintech-business-models)
    - [Regulatory Environment in Fintech](https://github.com/Suraj520/fintech101/tree/main/00-Intro-to-fintech/03-regulatory-environment-in-fintech)
-   - [Regulatory Environment in Indian Finance](https://github.com/Suraj520/fintech101/tree/main/00-Intro-to-fintech/04-regulatory-environment-indian-finance)
+   
 
 2. [Basic Finance Concepts](https://github.com/Suraj520/fintech101/tree/main/01-basic-finance-concepts) 💰
    - [Time Value of Money](https://github.com/Suraj520/fintech101/tree/main/01-basic-finance-concepts/00-time-value-of-money)
@@ -66,61 +69,56 @@ Welcome to Fintech101! This repository is designed to be your comprehensive guid
     - [Integration of NoSQL with Blockchain Applications](https://github.com/Suraj520/fintech101/tree/main/09-nosql-databases-blockchain/01-integration-of-nosql-with-blockchainapps)
     - [Use Cases and Applications](https://github.com/Suraj520/fintech101/tree/main/09-nosql-databases-blockchain/02-usecases-applications)
 
-11. [Advanced Blockchain Concepts](https://github.com/Suraj520/fintech101/tree/main/10-advanced-blockchain-concepts) 🔍
-    - [Cryptography in Blockchain](https://github.com/Suraj520/fintech101/tree/main/10-advanced-blockchain-concepts/00-crypto-in-blockchain)
-    - [Decentralized Identities (DIDs)](https://github.com/Suraj520/fintech101/tree/main/10-advanced-blockchain-concepts/01-decentralized-identities)
-    - [Web3 and the Future of Internet](https://github.com/Suraj520/fintech101/tree/main/10-advanced-blockchain-concepts/02-web3-future-of-internet)
-
-12. [Future Trends](https://github.com/Suraj520/fintech101/tree/main/11-future-trends) 🔮
-    - [Emerging Technologies in Fintech](https://github.com/Suraj520/fintech101/tree/main/11-future-trends/00-emerging-fintech)
-    - [Artificial Intelligence and Machine Learning](https://github.com/Suraj520/fintech101/tree/main/11-future-trends/01-AI-ML)
-    - [Robo-Advisors and Predictive Analytics](https://github.com/Suraj520/fintech101/tree/main/11-future-trends/02-robo-advisors-pred-analytics)
-    - [NFTs and Tokenization Trends](https://github.com/Suraj520/fintech101/tree/main/11-future-trends/03-nfts-tokenization-trends)
-
-13. [Case Studies and Practical Projects](https://github.com/Suraj520/fintech101/tree/main/12-case-studies) 📊
-    - [Implementing Fintech Solutions](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/00-implementing-fintech-sols)
-    - [Building Blockchain Applications](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/01-building-blockchain-apps)
-    - [Simulating Financial Models](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/02-simulating-financial-models)
-    - [Analyzing Real-world Fintech Use Cases](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/03-analysing-realworld-fintech-usecases)
+11. [Case Studies and Practical Projects](https://github.com/Suraj520/fintech101/tree/main/10-case-studies) 📊
+    - [Implementing Fintech Solutions](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/00-implementing-fintech-sols)
+    - [Building Blockchain Applications](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/01-building-blockchain-apps)
+    - [Simulating Financial Models](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/02-simulating-financial-models)
+    - [Analyzing Real-world Fintech Use Cases](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/03-analysing-realworld-fintech-usecases)
     - Others:
-      - [Credit Scoring Models for Indian Banks](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/00-credit-scoring-models-for-indian-banks)
-      - [Fraud Detection in Indian Payment Systems](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/01-fraud-detection-indian-payment-system)
-      - [Algorithmic Trading Strategy for Stock Market](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/02-algorithmic-trading-strategy-stock-market)
-      - [Decentralized Lending Platform for SMEs](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/03-decentralized-lending-platform-SMEs)
-      - [Insurance Claim Processing Automation](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/04-insurance-claim-processing-automation)
-      - [Personalized Investment Recommendation for Investors](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/05-personalized-investment-recommendation-investors)
-      - [Tokenization of Real Estate Assets in India](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/06-tokenization-of-real-estate-assets-india)
-      - [Decentralized Identity Verification for Indian Governments](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/07-decentralized-identity-verification-indian-governments)
-      - [Cross-border Remittance with Stablecoins](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/08-cross-border-remmitance-stablecoins)
-      - [Automated Market Making Algorithm for Decentralized Exchanges](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/09-automated-market-making-algorithm-decentralized-exchanges)
-      - [Decentralized Asset Management Platform](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/10-decentralized-asset-management-platform)
-      - [Decentralized Insurance Platform](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/11-decentralized-insurance-platform)
-      - [Tokenization of Intellectual Property Rights](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/12-tokenization-intellectual-property-rights)
-      - [Prediction Market for Cryptocurrency Price Forecasting](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/13-prediction-market-cryptocurrency-price-forecasting)
-      - [Decentralized Autonomous Organizations (DAOs) Governance Platform](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/14-Decentralized-autonomous-organizations-DAOs-governance-platform)
-      - [Decentralized Identity Verification for Supply Chain Markets](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/15-decentralized-identity-verification-for-supply-chain-markets)
-      - [Tokenized Real Estate Investment Platform](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/16-tokenized-real-estate-investment-platform)
-      - [Decentralized Autonomous Liquidity Pools](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/17-decentralized-autonomous-liquity-pools)
-      - [Decentralized Autonomous Insurance Pools](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/18-decentralized-autonomous-insurance-pools)
-      - [Blockchain-based Voting Governance Systems for Public](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/19-blockchain-based-voting-governance-systems-for-public)
-      - [Decentralized Identity Management for KYC/AML](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/20-decentralized-identity-management-for-kyc-aml)
-      - [Blockchain-based Supply Chain Sustainability](https://github.com/Suraj520/fintech101/tree/main/12-case-studies/04-others/21-blockchain-based-supply-chain-sustainability)
+      - [Credit Scoring Models for Indian Banks](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/00-credit-scoring-models-for-indian-banks)
+      - [Fraud Detection in Indian Payment Systems](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/01-fraud-detection-indian-payment-system)
+      - [Algorithmic Trading Strategy for Stock Market](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/02-algorithmic-trading-strategy-stock-market)
+      - [Decentralized Lending Platform for SMEs](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/03-decentralized-lending-platform-SMEs)
+      - [Insurance Claim Processing Automation](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/04-insurance-claim-processing-automation)
+      - [Personalized Investment Recommendation for Investors](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/05-personalized-investment-recommendation-investors)
+      - [Tokenization of Real Estate Assets in India](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/06-tokenization-of-real-estate-assets-india)
+      - [Decentralized Identity Verification for Indian Governments](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/07-decentralized-identity-verification-indian-governments)
+      - [Cross-border Remittance with Stablecoins](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/08-cross-border-remmitance-stablecoins)
+      - [Automated Market Making Algorithm for Decentralized Exchanges](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/09-automated-market-making-algorithm-decentralized-exchanges)
+      - [Decentralized Asset Management Platform](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/10-decentralized-asset-management-platform)
+      - [Decentralized Insurance Platform](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/11-decentralized-insurance-platform)
+      - [Tokenization of Intellectual Property Rights](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/12-tokenization-intellectual-property-rights)
+      - [Prediction Market for Cryptocurrency Price Forecasting](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/13-prediction-market-cryptocurrency-price-forecasting)
+      - [Decentralized Autonomous Organizations (DAOs) Governance Platform](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/14-Decentralized-autonomous-organizations-DAOs-governance-platform)
+      - [Decentralized Identity Verification for Supply Chain Markets](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/15-decentralized-identity-verification-for-supply-chain-markets)
+      - [Tokenized Real Estate Investment Platform](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/16-tokenized-real-estate-investment-platform)
+      - [Decentralized Autonomous Liquidity Pools](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/17-decentralized-autonomous-liquity-pools)
+      - [Decentralized Autonomous Insurance Pools](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/18-decentralized-autonomous-insurance-pools)
+      - [Blockchain-based Voting Governance Systems for Public](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/19-blockchain-based-voting-governance-systems-for-public)
+      - [Decentralized Identity Management for KYC/AML](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/20-decentralized-identity-management-for-kyc-aml)
+      - [Blockchain-based Supply Chain Sustainability](https://github.com/Suraj520/fintech101/tree/main/10-case-studies/04-others/21-blockchain-based-supply-chain-sustainability)
 
-14. [Scalability and Privacy in Blockchains](https://github.com/Suraj520/fintech101/tree/main/13-scalability-privacy-in-blockchains) 🔒
-    - [Scalability Challenges and Solutions](https://github.com/Suraj520/fintech101/tree/main/13-scalability-privacy-in-blockchains/00-scalability-challenges-solutions)
-    - [Privacy Tech and Protocols](https://github.com/Suraj520/fintech101/tree/main/13-scalability-privacy-in-blockchains/01-privacy-tech-protocols)
-    - [Layer2 Solutions, Rollups, Zero-Knowledge Proofs](https://github.com/Suraj520/fintech101/tree/main/13-scalability-privacy-in-blockchains/02-layer2-solutions-rollups-zeroknowledge-proofs)
-    - [Blockchain Security Measures](https://github.com/Suraj520/fintech101/tree/main/13-scalability-privacy-in-blockchains/03-blockchain-security-measures)
+12. [Scalability and Privacy in Blockchains](https://github.com/Suraj520/fintech101/tree/main/11-scalability-privacy-in-blockchains) 🔒
+    - [Scalability Challenges and Solutions](https://github.com/Suraj520/fintech101/tree/main/11-scalability-privacy-in-blockchains/00-scalability-challenges-solutions)
+    - [Privacy Tech and Protocols](https://github.com/Suraj520/fintech101/tree/main/11-scalability-privacy-in-blockchains/01-privacy-tech-protocols)
+    - [Layer2 Solutions, Rollups, Zero-Knowledge Proofs](https://github.com/Suraj520/fintech101/tree/main/11-scalability-privacy-in-blockchains/02-layer2-solutions-rollups-zeroknowledge-proofs)
+    - [Blockchain Security Measures](https://github.com/Suraj520/fintech101/tree/main/11-scalability-privacy-in-blockchains/03-blockchain-security-measures)
 
 
 #### Resources
+
 1. https://www.udemy.com/course/fintech-the-complete-guide-to-financial-technologies/?couponCode=NVDPRODIN35
+
 2. https://www.udemy.com/course/fintech-prepare-for-the-revolution-in-finance/?couponCode=NVDPRODIN35
+
 3. https://www.udemy.com/course/indian-fintech-masterclass-global-fintech-academy-best-fintech-course/
+
 4. https://www.udemy.com/course/indian-fintech-masterclass-global-fintech-academy-best-fintech-course/?couponCode=NVDPRODIN35
+
 5. https://www.udemy.com/course/fintechstartups/?couponCode=NVDPRODIN35 
 
 ##### Books
+
 1. "Blockchain Revolution" by Don and Alex Tapscott
 2. "The Bitcoin Standard" by Saifedean Ammous
 3. "The Infinite Machine" by Camila Russo
