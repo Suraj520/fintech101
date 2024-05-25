@@ -1,5 +1,3 @@
-Here is the updated README.md with additional DApp project ideas:
-
 ## Table of Contents
 - [Beginner Level](#beginner-level)
 - [Intermediate Level](#intermediate-level)
