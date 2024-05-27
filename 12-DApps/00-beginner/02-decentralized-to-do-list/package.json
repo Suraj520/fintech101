@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^1.1.1"
+  },
+  "name": "02-decentralized-to-do-list",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
