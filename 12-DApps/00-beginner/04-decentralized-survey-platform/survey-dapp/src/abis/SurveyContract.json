@@ -1,0 +1,68 @@
+{
+    "contractName": "SurveyContract",
+    "abi": [
+      {
+        "constant": false,
+        "inputs": [
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "questions",
+            "type": "string[]"
+          }
+        ],
+        "name": "createSurvey",
+        "outputs": [],
+        "payable": false,
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "constant": true,
+        "inputs": [
+          {
+            "name": "surveyId",
+            "type": "uint256"
+          }
+        ],
+        "name": "getSurvey",
+        "outputs": [
+          {
+            "name": "",
+            "type": "string"
+          },
+          {
+            "name": "",
+            "type": "string[]"
+          }
+        ],
+        "payable": false,
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "constant": false,
+        "inputs": [
+          {
+            "name": "surveyId",
+            "type": "uint256"
+          },
+          {
+            "name": "questionId",
+            "type": "uint256"
+          },
+          {
+            "name": "response",
+            "type": "string"
+          }
+        ],
+        "name": "submitResponse",
+        "outputs": [],
+        "payable": false,
+        "stateMutability": "nonpayable",
+        "type": "function"
+      }
+    ]
+  }
